@@ -30,8 +30,8 @@ doc --- 项目相关文档
     devel --- 开发文档  
     user --- 用户文档  
 src --- 源码  
-  
-#### 安装教程  
+```
+#### 安装教程(ubuntu环境)  
   
 1.  cd netradio/src/client;make;./client
 2.  cd netradio/src/server;make;./server -F  
@@ -44,4 +44,3 @@ src --- 源码
 #### 参与贡献  
   
 搭建客户端和服务器端，实现相应功能  
-```
